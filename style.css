@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(70, 142, 236);
+}
+
+header {
+color: white;
+text-align: center;
+}
+
+section {
+background: rgba(235, 119, 11, 0.342);
+border-radius: 10px;
+padding: 15px;
+height: 400px;
+width: 600px;
+margin:auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.644);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding:5px ;
+}
+
+#texto {
+    color: rgba(235, 119, 11, 0.692);
+    font-size: 40px;
+    background:  rgba(255, 255, 255, 0.219);
+    border-radius: 10px;
+    width: 640px;
+    align-items: center;
+    display: inline-block;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.356);
+}
+
+#titulo {
+    font-size: 35px;
+}
+
+#imagem {
+    height: 340px;
+    width: 300px;
+    align-items: center;
+    border: 6px solid rgba(230, 155, 18, 0.274);
+    border-radius: 1000px;
+}
+
+#msg {
+    font-size: 33px;
+    color: #FFE3DE
+
+}
+
+#msgNoite{
+    color: #FFE3DE;
+    font-size: 30px;
+}
+#msgNoite2 {
+    color: #FFE3DE;
+    font-size: 40px;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 10px;
+    display: inline-block;
+    
+}
+
+footer {
+    text-align: center;
+}
